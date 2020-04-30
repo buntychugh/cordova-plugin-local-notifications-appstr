@@ -44,6 +44,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import de.appplant.cordova.plugin.notification.Builder;
+
 import de.appplant.cordova.plugin.notification.Manager;
 import de.appplant.cordova.plugin.notification.Notification;
 import de.appplant.cordova.plugin.notification.Options;
